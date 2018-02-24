@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaSkyConsole", "InstaSkyConsole\InstaSkyConsole.csproj", "{640A82BF-F4E0-4498-90A5-35ACBF812B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640A82BF-F4E0-4498-90A5-35ACBF812B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640A82BF-F4E0-4498-90A5-35ACBF812B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640A82BF-F4E0-4498-90A5-35ACBF812B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640A82BF-F4E0-4498-90A5-35ACBF812B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04C4F8B-434D-4278-9C53-375B1014845A}
+	EndGlobalSection
+EndGlobal
